@@ -10,7 +10,7 @@ More discussion about the method evaluation and its’ results can be found from
 2. 'evaluation' -folder
      - [Cleaning_annotationdata_and_merging](https://github.com/ilsteri/AidData_geoparser/blob/main/evaluation/Cleaning_annotationdata_and_merging.ipynb) >> handling LabelStudio -set
      - [Parsing_validation_set](https://github.com/ilsteri/AidData_geoparser/blob/main/evaluation/Parsing_validation_set.ipynb) >> unifying different parts of validation data
-     - [validating_datasets](https://github.com/ilsteri/AidData_geoparser/blob/main/evaluation/validating_datasets.ipynb) >> different validation methods done to evaluate my geoparsing results
+     - [validating_datasets](https://github.com/ilsteri/AidData_geoparser/blob/main/evaluation/validating_datasets.ipynb) >> different evaluation metrics implemented to evaluate my geoparsers and validate the results
 
 
 Google, friends, and ChatGPT4 were consulted for help in some code sections.
