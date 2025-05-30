@@ -8,9 +8,9 @@ More discussion about the method evaluation and its’ results can be found from
      - [geoparser_aiddata_geonames](https://github.com/ilsteri/AidData_geoparser/blob/main/geoparsers/geoparser_for_aiddata_geonames.ipynb) >> GeoNames
      - [geoparser_aiddata_pelias](https://github.com/ilsteri/AidData_geoparser/blob/main/geoparsers/geoparser_for_aiddata_pelias.ipynb) >> Pelias
 2. 'evaluation' -folder
-     - Cleaning_annotationdata_and_merging >> handling LabelStudio -set
-     - Parsing_validation_set >> unifying different parts of validation data
-     - validating_datasets >> different validation methods done to evaluate my geoparsing results
+     - [Cleaning_annotationdata_and_merging](https://github.com/ilsteri/AidData_geoparser/blob/main/evaluation/Cleaning_annotationdata_and_merging.ipynb) >> handling LabelStudio -set
+     - [Parsing_validation_set](https://github.com/ilsteri/AidData_geoparser/blob/main/evaluation/Parsing_validation_set.ipynb) >> unifying different parts of validation data
+     - [validating_datasets](https://github.com/ilsteri/AidData_geoparser/blob/main/evaluation/validating_datasets.ipynb) >> different validation methods done to evaluate my geoparsing results
 
 
 Google, friends, and ChatGPT4 were consulted for help in some code sections.
