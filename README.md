@@ -1,7 +1,9 @@
 ## The project:
 The project was conducted as part of the research group Sustainability and Conservation at University of Helsinki. 
 More discussion about the method evaluation and its’ results can be found from my master’s thesis,
-*Geoparsing foreign development assistance projects of Madagascar*.
+*Geoparsing foreign development assistance projects of Madagascar*. 
+
+ChatGPT4 was used in some code sections.
 
 ## Codes in repository:
 Codes contain all the information needed so they work as stand alone. For better accessibility they are cut in sections so the user can proceed step by step.
