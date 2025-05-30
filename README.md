@@ -4,9 +4,9 @@ More discussion about the method evaluation and its’ results can be found from
 *Geoparsing foreign development assistance projects of Madagascar*. 
 
 1. 'geoparsers' -folder
-     - [geoparser_for_excel_aiddata](https://github.com/ilsteri/AidData_geoparser/blob/main/geoparsers/geoparser_for_aiddata_SpaCy_Nominatim.ipynb%20geoparser_for_aiddata_SpaCy_Nominatim) >> SpaCy -implementation with Nominatim
-     - [geoparser_aiddata_geonames](https://github.com/ilsteri/AidData_geoparser/blob/main/geoparsers/geoparser_for_aiddata_SpaCy_Nominatim.ipynb%20geoparser_for_aiddata_geonames) >> GeoNames
-     - [geoparser_aiddata_pelias](https://github.com/ilsteri/AidData_geoparser/blob/main/geoparsers/geoparser_for_aiddata_SpaCy_Nominatim.ipynb%20geoparser_for_aiddata_pelias) >> Pelias
+     - [geoparser_for_excel_aiddata](https://github.com/ilsteri/AidData_geoparser/blob/main/geoparsers/geoparser_for_aiddata_SpaCy_Nominatim.ipynb) >> SpaCy -implementation with Nominatim
+     - [geoparser_aiddata_geonames](https://github.com/ilsteri/AidData_geoparser/blob/main/geoparsers/geoparser_for_aiddata_SpaCy_Nominatim.ipynb%20geoparser_for_aiddata_geonames.ipynb) >> GeoNames
+     - [geoparser_aiddata_pelias](https://github.com/ilsteri/AidData_geoparser/blob/main/geoparsers/geoparser_for_aiddata_SpaCy_Nominatim.ipynb%20geoparser_for_aiddata_pelias.ipynb) >> Pelias
 2. 'evaluation' -folder
      - Cleaning_annotationdata_and_merging >> handling LabelStudio -set
      - Parsing_validation_set >> unifying different parts of validation data
